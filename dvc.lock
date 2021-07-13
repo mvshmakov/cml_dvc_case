@@ -12,8 +12,7 @@ stages:
       size: 893
     outs:
     - path: loss.csv
-      md5: e04151fcc1da4d73f701d0047227c099
-      size: 434
+      md5: b8e6e7766dcc23a2efd5bcfc8183e69d
     - path: metrics.json
       md5: 8c9bc191945c977b6f035f5f6bc36b20
       size: 84
